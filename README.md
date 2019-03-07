@@ -10,7 +10,7 @@ This app is using Heroku for deployment. The Heroku CLI is required.
 1. Download the Heroku CLI
 1. Login to the Heroku CLI by using `heroku login`
 1. (DO NOT DO THIS AGAIN UNLESS NEW PROJECT) Create a new heroku app by running `heroku create`. Use the 2nd link and add it as a remote origin (below one is the one ).
-1. Add remote heroku `{the 2nd link}`. The one for my app is `https://git.heroku.com/obscure-gorge-31285.git`.
+1. Add remote heroku through `git remote add heroku {the 2nd link}`. The one for my app is `https://git.heroku.com/obscure-gorge-31285.git`.
 
 ### Dynamic Port Binding
 
